@@ -1,0 +1,2 @@
+hello!
+this is an data file which is to be encrypted 
