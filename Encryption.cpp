@@ -14,7 +14,7 @@ int main(){
 
     inputFile.open("data.txt",ios::in);
 
-    encodedFile.open("encoded.txt",ios::in | ios::out);
+    encodedFile.open("encoded.txt", ios::out);
 
     int p = 47 , q = 53;
     int n = p*q;
